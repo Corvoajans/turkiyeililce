@@ -1,0 +1,184 @@
+[
+  {
+    "il": "Adana",
+    "ilceleri": [
+      "Ceyhan",
+      "Çukurova",
+      "Feke",
+      "İmamoğlu",
+      "Karaisalı",
+      "Karataş",
+      "Kozan",
+      "Pozantı",
+      "Saimbeyli",
+      "Sarıçam",
+      "Seyhan",
+      "Tufanbeyli",
+      "Yumurtalık",
+      "Yüreğir"
+    ]
+  },
+  {
+    "il": "Adıyaman",
+    "ilceleri": [
+      "Besni",
+      "Çelikhan",
+      "Gerger",
+      "Gölbaşı",
+      "Kahta",
+      "Merkez",
+      "Samsat",
+      "Sincik",
+      "Tut"
+    ]
+  },
+  {
+    "il": "Afyonkarahisar",
+    "ilceleri": [
+      "Başmakçı",
+      "Bayat",
+      "Bolvadin",
+      "Çay",
+      "Çobanlar",
+     "Dazkırı",
+      "Dinar",
+      "Emirdağ",
+      "Evciler",
+      "Hocalar",
+      "İhsaniye",
+      "İscehisar",
+      "Kızılören",
+      "Merkez",
+      "Sandıklı",
+      "Sinanpaşa",
+      "Şuhut",
+      "Sultandağı",
+    ]
+  },
+  {
+    "il": "Ağrı",
+    "ilceleri": [
+      "Diyadin",
+      "Doğubayazıt",
+      "Eleşkirt",
+      "Hamur",
+      "Merkez",
+      "Patnos",
+      "Taşlıçay",
+      "Tutak"
+    ]
+  },
+  {
+    "il":  "Aksaray",
+    "ilceleri":  [
+      "Ağaçören",
+      "Eskil",
+      "Gülağaç",
+      "Güzelyurt",
+      "Merkez",
+      "Ortaköy",
+      "Sarıyahşi",
+      "Sultanhanı"
+    ]
+  },
+  {
+    "il": "Amasya",
+    "ilceleri": [
+      "Göynücek",
+      "Gümüşhacıköy",
+      "Hamamözü",
+      "Merkez",
+      "Merzifon",
+      "Suluova",
+      "Taşova"
+    ]
+  },
+  {
+    "il": "Ankara",
+    "ilceleri": [
+      "Akyurt",
+      "Altındağ",
+      "Ayaş",
+      "Bala",
+      "Beypazarı",
+      "Çamlıdere",
+      "Çankaya",
+      "Çubuk",
+      "Elmadağ",
+      "Etimesgut",
+      "Evren",
+      "Gölbaşı",
+      "Güdül",
+      "Haymana",
+      "Kahramankazan",
+      "Kalecik",
+      "Keçiören",
+      "Kızılcahamam",
+      "Mamak",
+      "Nallıhan",
+      "Polatlı",
+      "Pursaklar",
+      "Şereflikoçhisar",
+      "Sincan",
+      "Yenimahalle"
+    ]
+  },
+    {
+      "il": "Antalya",
+      "ilceleri": [
+        "Akseki",
+        "Aksu",
+        "Alanya",
+        "Demre",
+        "Döşemealtı",
+        "Elmalı",
+        "Finike",
+        "Gazipaşa",
+        "Gündoğmuş",
+        "İbradı",
+        "Kaş",
+        "Kemer",
+        "Kepez",
+        "Konyaaltı",
+        "Korkuteli",
+        "Kumluca",
+        "Manavgat",
+        "Muratpaşa",
+        "Serik"
+      ]
+    },
+    {
+      "il": "Ardahan",
+      "ilceleri": [
+        "Çıldır",
+        "Damal",
+        "Göle",
+        "Hanak",
+        "Merkez",
+        "Posof"
+      ]
+    },
+
+
+
+
+
+
+
+  {
+    "il": "İstanbul",
+    "ilceleri": [
+      "Esenyurt",
+      "Küçükçekmece",
+      "Bağcılar",
+      "Ümraniye",
+      "Pendik",
+      "Bahçelievler",
+      "Üsküdar",
+      "Kadıköy",
+      "Beşiktaş",
+      "Şişli",
+      "Fatih"
+    ]
+  }
+]
