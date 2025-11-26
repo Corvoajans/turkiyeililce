@@ -1287,6 +1287,92 @@
       "Vakfıkebir",
       "Yomra"
     ]
+  },
+  {
+    "il": "Tunceli",
+    "ilceleri": [
+      "Çemişgezek",
+      "Hozat",
+      "Mazgirt",
+      "Merkez",
+      "Nazımiye",
+      "Ovacık",
+      "Pertek",
+      "Pülümür"
+    ]
+  },
+  {
+    "il": "Uşak",
+    "ilceleri": [
+      "Banaz",
+      "Eşme",
+      "Karahallı",
+      "Merkez",
+      "Sivaslı",
+      "Ulubey"
+    ]
+  },
+  {
+    "il": "Van",
+    "ilceleri": [
+      "Bahçesaray",
+      "Başkale",
+      "Çaldıran",
+      "Çatak",
+      "Edremit",
+      "Erciş",
+      "Gevaş",
+      "Gürpınar",
+      "İpekyolu",
+      "Muradiye",
+      "Özalp",
+      "Saray",
+      "Tuşba"
+    ]
+  },
+  {
+    "il": "Yalova",
+    "ilceleri": [
+      "Altınova",
+      "Armutlu",
+      "Çiftlikköy",
+      "Çınarcık",
+      "Merkez",
+      "Termal",
+    ]
+  },
+  {
+    "il": "Yozgat",
+    "ilceleri": [
+      "Akdağmadeni",
+      "Aydıncık",
+      "Boğazlıyan",
+      "Çandır",
+      "Çayıralan",
+      "Çekerek",
+      "Kadışehri",
+      "Merkez",
+      "Saraykent",
+      "Sarıkaya",
+      "Şefaatli",
+      "Sorgun",
+      "Yenifakılı",
+      "Yerköy"
+    ]
+  },
+{
+    "il": "Zonguldak",
+    "ilceleri": [
+      "Alaplı",
+      "Çaycuma",
+      "Devrek",
+      "Ereğli",
+      "Gökçebey",
+      "Kilimli",
+      "Kozlu",
+      "Merkez"
+    ]
   }
+
 
 ]
