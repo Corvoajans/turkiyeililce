@@ -160,13 +160,42 @@
     },
 
 {
-"il": "İzmir",
-"ilceleri": [
-  "Bayraklı"
-]
-},
+    "il": "Artvin",
+    "ilceleri": [
+      "Ardanuç",
+      "Arhavi",
+      "Borçka",
+      "Hopa",
+      "Kemalpaşa",
+      "Merkez",
+      "Murgul",
+      "Şavşat",
+      "Yusufeli"
+    ]
+  },
 
-
+{
+    "il": "Aydın",
+    "ilceleri": [
+      "Bozdoğan",
+      "Buharkent",
+      "Çine",
+      "Didim",
+      "Efeler",
+      "Germencik",
+      "İncirliova",
+      "Karacasu",
+      "Karpuzlu",
+      "Koçarlı",
+      "Köşk",
+      "Kuşadası",
+      "Kuyucak",
+      "Nazilli",
+      "Söke",
+      "Sultanhisar",
+      "Yenipazar"
+    ]
+  },
 
 
   {
