@@ -10,7 +10,7 @@
       "Karataş",
       "Kozan",
       "Pozantı",
-      "Sa"imbeyli",
+      "Saimbeyli",
       "Sarıçam",
       "Seyhan",
       "Tufanbeyli",
@@ -299,8 +299,8 @@
   {
     "il": "Burdur",
     "ilceleri": [
-      "Ağlasun"
-      "Altınyayla,
+      "Ağlasun",
+      "Altınyayla",
       "Bucak",
       "Çavdır",
       "Çeltikçi",
@@ -535,7 +535,7 @@
     ]
   },
   {
-    "il: "Gaziantep",
+    "il": "Gaziantep",
     "ilceleri": [
       "Araban",
       "İslahiye",
@@ -633,7 +633,7 @@
       "Senirkent",
       "Sütçüler",
       "Uluborlu",
-      "Yalvaç"
+      "Yalvaç",
       "Yenişarbademli"
     ]
   },
@@ -680,7 +680,7 @@
       "Üsküdar",
       "Zeytinburnu"
     ]
-  }
+  },
   {
     "il": "İzmir",
     "ilceleri": [
@@ -729,7 +729,7 @@
       "Nurhak",
       "Onikişubat",
       "Pazarcık",
-      "Türkoğlu",
+      "Türkoğlu"
     ]
   },
   {
@@ -751,7 +751,7 @@
       "Ermenek",
       "Kazımkarabekir",
       "Merkez",
-      "Sarıveliler",
+      "Sarıveliler"
     ]
   },
   {
@@ -764,7 +764,7 @@
       "Merkez",
       "Sarıkamış",
       "Selim",
-      "Susuz",
+      "Susuz"
     ]
   },
   {
@@ -833,7 +833,7 @@
       "Keskin",
       "Merkez",
       "Sulakyurt",
-      "Yahşihan",
+      "Yahşihan"
     ]
   },
   {
@@ -863,7 +863,7 @@
   },
   {
     "il": "Kocaeli",
-    "ilceleri: [
+    "ilceleri": [
       "Başiskele",
       "Çayırova",
       "Darıca",
@@ -993,7 +993,7 @@
       "Akdeniz",
       "Anamur",
       "Aydıncık",
-      "Bozyazı,"
+      "Bozyazı",
       "Çamlıyayla",
       "Erdemli",
       "Gülnar",
@@ -1025,7 +1025,7 @@
   },
   {
     "il": "Muş",
-    "ilceleri" [
+    "ilceleri": [
       "Bulanık",
       "Hasköy",
       "Korkut",
@@ -1059,7 +1059,7 @@
     ]
   },
   {
-    "il": "Ordu":
+    "il": "Ordu",
     "ilceleri": [
       "Akkuş",
       "Altınordu",
@@ -1140,7 +1140,7 @@
       "Asarcık",
       "Atakum",
       "Ayvacık",
-      "Bafra","
+      "Bafra",
       "Canik",
       "Çarşamba",
       "Havza",
@@ -1189,7 +1189,7 @@
     "ilceleri": [
       "Ayancık",
       "Boyabat",
-      "Dikmen"",
+      "Dikmen",
       "Durağan",
       "Erfelek",
       "Gerze",
@@ -1285,8 +1285,8 @@
       "Sürmene",
       "Tonya",
       "Vakfıkebir",
-      "Yomra",
+      "Yomra"
     ]
-  },
+  }
 
 ]
