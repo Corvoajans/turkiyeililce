@@ -1097,6 +1097,195 @@
   { 
     "il": "Rize",
     "ilceleri": [
+      "Ardeşen",
+      "Çamlıhemşin",
+      "Çayeli",
+      "Derepazarı",
+      "Fındıklı",
+      "Güneysu",
+      "Hemşin",
+      "İkizdere",
+      "İyidere",
+      "Kalkandere",
+      "Merkez",
+      "Pazar"
+    ]
+  },
+  {
+    "il": "Sakarya",
+    "ilceleri": [
+      "Adapazarı",
+      "Akyazı",
+      "Arifiye",
+      "Erenler",
+      "Ferizli",
+      "Geyve",
+      "Hendek",
+      "Karapürçek",
+      "Karasu",
+      "Kaynarca",
+      "Kocaali",
+      "Pamukova",
+      "Sapanca",
+      "Serdivan",
+      "Söğütlü",
+      "Taraklı"
+    ]
+  },
+  {
+    "il": "Samsun",
+    "ilceleri": [
+      "19 Mayıs",
+      "Alaçam",
+      "Asarcık",
+      "Atakum",
+      "Ayvacık",
+      "Bafra","
+      "Canik",
+      "Çarşamba",
+      "Havza",
+      "İlkadım",
+      "Kavak",
+      "Ladik",
+      "Salıpazarı",
+      "Tekkeköy",
+      "Terme",
+      "Vezirköprü",
+      "Yakakent"
+    ]
+  },
+  {
+    "il": "Şanlıurfa",
+    "ilceleri": [
+      "Akçakale",
+      "Birecik",
+      "Bozova",
+      "Ceylanpınar",
+      "Eyyübiye",
+      "Halfeti",
+      "Haliliye",
+      "Harran",
+      "Hilvan",
+      "Karaköprü",
+      "Siverek",
+      "Suruç",
+      "Viranşehir"
+    ]
+  },
+  {
+    "il": "Siir",
+    "ilceleri": [
+      "Baykan",
+      "Eruh",
+      "Kurtalan",
+      "Merkez",
+      "Pervari",
+      "Şirvan",
+      "Tillo"
+    ]
+  },
+  {
+    "il": "Sinop",
+    "ilceleri": [
+      "Ayancık",
+      "Boyabat",
+      "Dikmen"",
+      "Durağan",
+      "Erfelek",
+      "Gerze",
+      "Merkez",
+      "Saraydüzü",
+      "Türkeli"
+    ]
+  },
+  {
+    "il": "Şırnak",
+    "ilceleri": [
+      "Beytüşşebap",
+      "Cizre",
+      "Güçlükonak",
+      "İdil",
+      "Merkez",
+      "Silopi",
+      "Uludere"
+    ]
+  },
+  {
+    "il": "Sivas",
+    "ilceleri": [
+      "Akıncılar",
+      "Altınyayla",
+      "Divriği",
+      "Doğanşar",
+      "Gemerek",
+      "Gölova",
+      "Gürün",
+      "Hafik",
+      "İmranlı",
+      "Kangal",
+      "Koyulhisar",
+      "Merkez",
+      "Şarkışla",
+      "Suşehri",
+      "Ulaş",
+      "Yıldızeli",
+      "Zara"
+    ]
+  },
+  {
+    "il": "Tekirdağ",
+    "ilceleri": [
+      "Çerkezköy",
+      "Çorlu",
+      "Ergene",
+      "Hayrabolu",
+      "Kapaklı",
+      "Malkara",
+      "Marmaraereğlisi",
+      "Muratlı",
+      "Saray",
+      "Şarköy",
+      "Süleymanpaşa"
+    ]
+  },
+  {
+    "il": "Tokat",
+    "ilceleri": [
+      "Almus",
+      "Artova",
+      "Başçiftlik",
+      "Erbaa",
+      "Merkez",
+      "Niksar",
+      "Pazar",
+      "Reşadiye",
+      "Sulusaray",
+      "Turhal",
+      "Yeşilyurt",
+      "Zile"
+    ]
+  },
+  {
+    "il": "Trabzon",
+    "ilceleri": [
+      "Akçaabat
+Araklı
+Arsin
+Beşikdüzü
+Çarşıbaşı
+Çaykara
+Dernekpazarı
+Düzköy
+Hayrat
+Köprübaşı
+Maçka
+Of
+Ortahisar
+Şalpazarı
+Sürmene
+Tonya
+Vakfıkebir
+Yomra
 
 
 ]
